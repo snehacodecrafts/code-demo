@@ -1,4 +1,4 @@
 # code-demo
 this is my first Git repository.
 <br>
-author - SNEHA VERMA
+author - sneha verma
